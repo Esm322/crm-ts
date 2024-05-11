@@ -1,0 +1,19 @@
+<template>
+  <svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path opacity="0.7" d="M8 4L7.295 3.295L4.5 6.085L4.5 0L3.5 0L3.5 6.085L0.71 3.29L0 4L4 8L8
+    4Z" fill="#9873FF"/>
+  </svg>
+</template>
+
+<script>
+export default {
+  width: {
+    type: [Number, String],
+    default: 12,
+  },
+  height: {
+    type: [Number, String],
+    default: 12,
+  },
+};
+</script>
