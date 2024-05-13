@@ -32,4 +32,4 @@
 <p>Для запуска тестов, выполните команду:</p>
 <pre>npm run test:unit</pre>
 
-You can get acquainted with the "shop-moire" project by following this link: https://esm322.github.io/crm-ts-deploy/
+You can get acquainted with the "Crm-App" project by following this link: https://esm322.github.io/crm-ts-deploy/
