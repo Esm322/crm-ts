@@ -20,7 +20,7 @@
   <li>Vitest</li>
 </ul>
 <h2>Использование</h2>
-```sh npm i```
+```npm i```
 
 
 You can get acquainted with the "shop-moire" project by following this link: https://esm322.github.io/crm-ts-deploy/
