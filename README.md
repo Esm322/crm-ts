@@ -1,5 +1,5 @@
-<h1 align="center">Crm-App 1.3</h1>
-Проект был пересобран с помощью Vite на TypeScript. Предыдущая версия https://github.com/Esm322/crm-vue.
+<h1 align="center">Crm-App 1.2</h1>
+Проект был пересобран с помощью Vite на TypeScript. Предыдущии версии https://github.com/Esm322/crm-vue.
 <p>Crm-приложение с помощью которого можно добавлять клиентов с контактной инофрмацией о нём.</p>
 <p>Ознакомиться с проектом можно по ссылке: https://esm322.github.io/crm-ts-deploy/</p>
 <h2>Функционал</h2>
